@@ -92,3 +92,4 @@ The program will display key calculations in terminal and save a bar chart image
 
 # OUTPUT
 <img width="916" height="635" alt="Image" src="https://github.com/user-attachments/assets/cba4c720-1d82-4295-9869-627d7e425094" />
+<img width="800" height="500" alt="Image" src="https://github.com/user-attachments/assets/901abc4f-2de8-4bd7-8460-07c9b2c4f321" />
