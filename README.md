@@ -89,3 +89,6 @@ pip install dask pandas matplotlib
 python analysis.py
 
 The program will display key calculations in terminal and save a bar chart image (Sales_by_outlet.png)
+
+# OUTPUT
+<img width="916" height="635" alt="Image" src="https://github.com/user-attachments/assets/cba4c720-1d82-4295-9869-627d7e425094" />
